@@ -1,5 +1,7 @@
 # Dockerization Examples
 
+![Dockerfile Blueprint for Backend Languages](diagram.png)
+
 This repository is a collection of Dockerfile templates that show how to containerize applications written in common backend languages. Each folder focuses on one language and shows the same core goals: fast rebuilds, small runtime images, non-root execution, generic project paths, and clear separation between build-time and runtime dependencies.
 
 ## Languages
